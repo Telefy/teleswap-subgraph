@@ -1,0 +1,12 @@
+{
+  "rinkeby": {
+    "Factory": {
+      "address": "0x678e6a7Ebf554677E7387784ebD46047D05eC13e"
+    }
+  },
+  "mainnet": {
+    "Factory": {
+      "address": "0xEe3f3E41c551bc51cF389145Eb6D9BDcBA0Ec66d"
+    }
+  }
+}
